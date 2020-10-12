@@ -1,0 +1,11 @@
+{
+    "name": "Provenance",
+    "blocks": {
+        "/blockchain/ethereum": true,
+        "/blockchain/ethereum/solidity": true,
+        "/framework/vanilla": true,
+        "/category/access_control/administrator_role": true,
+        "/category/file_storage/ipfs": true,
+        "/category/file_storage/ipfs/mode": "folder"
+    }
+}
